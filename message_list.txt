@@ -1,0 +1,6 @@
+1. 指定された条件に適合する車輌は見つかりませんでした => Vehicles that conform to the conditions specified was not found
+	e.g. wrong type
+	
+Year: 
+21年
+H22 (ID 4135)

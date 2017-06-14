@@ -1,0 +1,144 @@
+.btnMyListA a:link {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid red;
+	background-color:red;
+	color:white;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListA a:visited {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid red;
+	background-color:white;
+	color:red;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListA_Disabled {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid #FFCCCC;
+	background-color:#FFCCCC;
+	color:white;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListB a:link {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid #0000CC;
+	background-color:#0000CC;
+	color:white;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListB a:visited {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid #0000CC;
+	background-color:white;
+	color:#0000CC;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListB_Disabled {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid #99CCFF;
+	background-color:#99CCFF;
+	color:white;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListC a:link {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid #FFCC33;
+	background-color:#FFCC33;
+	color:white;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListC a:visited {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid #FFCC33;
+	background-color:white;
+	color:#FFCC33;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListC_Disabled {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid #FFFF99;
+	background-color:#FFFF99;
+	color:white;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListD a:link {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid #6600CC;
+	background-color:#6600CC;
+	color:white;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListD a:visited {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid #6600CC;
+	background-color:white;
+	color:#6600CC;
+	text-align: center;
+	text-decoration:none;
+}
+.btnMyListD_Disabled {
+	display: block;
+	margin: 1px;
+	width: 11px;
+	height: 11px;
+	font-family: sans-serif;
+	border:2px solid #CCCCFF;
+	background-color:#CCCCFF;
+	color:white;
+	text-align: center;
+	text-decoration:none;
+}

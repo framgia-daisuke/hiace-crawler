@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Please login"
+AuthUserFile /var/www/iauc/admin/.pass/.htpasswd
+Require valid-user
+

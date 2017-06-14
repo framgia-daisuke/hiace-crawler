@@ -1,0 +1,626 @@
+.copy {
+	color: #003366;
+	font-size: 12px;
+}
+.redT {
+	color: #FF0000;
+	font-size: 12px;
+	line-height: 16px;
+}
+.redT1 {
+	color: #FF0000;
+	font-size: 14px;
+	line-height: 16px;
+}
+.redT2 {
+	color: #FF0000;
+	font-size: 16px;
+	line-height: 18px;
+}
+.blueT2 {
+	color: #0000FF;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 24px;
+	text-decoration: underline;
+}
+.txtT {
+	color: #333333;
+	font-size: 12px;
+	line-height: 16px;
+}
+.grayL {
+	color: #999999;
+	font-size: 14px;
+}
+.blackL {
+	color: #000000;
+	font-size: 14px;
+}
+.whiteL {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold
+}
+.frmT {
+	color: #000000;
+	font-size: 14px;
+	line-height: 16px;
+}
+.frmT1 {
+	font-size: 16px;
+	line-height: 18px;
+}
+.frmT2 {
+	color: #191970;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 18;
+}
+.txtT2 {
+	color: #191970;
+	font-size: 16px;
+	line-height: 18px;
+}
+.frmL {
+	color: #000000;
+	font-size: 14px;
+}
+.tableT {
+	color: #000000;
+	font-size: 12px;
+	line-height: 16px;
+}
+.tableTred {
+	color: #FF0000;
+	font-size: 12px;
+	line-height: 16px;
+}
+.mylstA {
+	color: #FF0000;
+	font-weight: bold;
+}
+.mylstB {
+	color: #0000FF;
+	font-weight: bold;
+}
+.mylstC {
+	color: #F8B20A;
+	font-weight: bold;
+}
+.mylstD {
+	color: #9D00B9;
+	font-weight: bold;
+}
+.hand {
+	cursor: hand;
+	cursor: pointer;
+}
+.box-free {
+	height: 16px;
+	width: 76px;
+}
+.box-light {
+	background-color: #ffffff;
+	clip: rect(auto, auto, auto, auto);
+	font-size: 10px;
+	height: 16px;
+	width: 100px;
+}
+.box {
+	background-color: #ffffff;
+	clip: rect(auto, auto, auto, auto);
+	font-size: 10px;
+	height: 16px;
+	width: 76px;
+}
+.box-red {
+	background-color: #ffffff;
+	clip: rect(auto, auto, auto, auto);
+	color: #FF0000;
+	font-size: 10px;
+	height: 16px;
+	width: 76px;
+}
+.box-top {
+	clip: rect(auto, auto, auto, auto);
+	font-size: 13px;
+	height: 18px;
+	width: 76px;
+}
+.box-top2 {
+	clip: rect(auto, auto, auto, auto);
+	font-size: 13px;
+	height: 18px;
+	width: 280px;
+}
+/******************************/
+/* �t�H���g                   */
+/* @descript                  */
+/******************************/
+.font{
+	font-size: 13px;
+}
+.font1{
+	font-size: 11px;
+	line-height: 13px;
+}
+.font2{
+	font-size: 12px;
+}
+.font3{
+	font-size: 10px;
+	text-decoration:none;
+}
+.font10{
+	font-size:10px;
+}
+.font11{
+	font-size:11px;
+}
+.font12{
+	font-size:12px;
+}
+.font15{
+	font-size:15px;
+}
+.font18{
+	font-size:18px;
+}
+.bottom {
+	height: 15px;
+	width: 15px;
+}
+.textbox {
+	font-size: 15px;
+	font-weight: bold;
+	height: 360px;
+	width: 250px;
+}
+.form_1 {
+	background: #ffffff;
+	border-color: #DDF0FF;
+	color: #003399;
+	font-size: 10pt;
+	height: 45px;
+	width: 180px;
+}
+.bot {
+	background-color: #B0CEFF;
+	border-bottom-width: 1px;
+	border-color: #D2E3FF #77AAFF #77AAFF #D2E3FF;
+	border-left-width: 1px;
+	border-right-width: 1px;
+	border-top-width: 1px;
+}
+.kihon {
+	font-family: "�l�r �o�S�V�b�N", "Osaka";
+	font-size: 14px;
+}
+.kihon-red {
+	color: #FF0000;
+	font-family: "�l�r �o�S�V�b�N", "Osaka";
+	font-size: 14px;
+	font-weight: bold;
+}
+.kihon-blue {
+	color: #0000FF;
+	font-family: "�l�r �o�S�V�b�N", "Osaka";
+	font-size: 14px;
+	font-weight: bold;
+}
+.kihon-black {
+	color: #000000;
+	font-family: "�l�r �o�S�V�b�N", "Osaka";
+	font-size: 14px;
+	font-weight: bold;
+}
+.kihon-green {
+	color:#009966;
+	font-family: "�l�r �o�S�V�b�N", "Osaka";
+	font-size:14px;
+	font-weight:bold;
+}
+.kihon10 {
+	font-family: "�l�r �o�S�V�b�N", "Osaka";
+	font-size: 10px;
+}
+.kihon12 {
+	font-family: "�l�r �o�S�V�b�N", "Osaka";
+	font-size: 12px;
+	white-space: nowrap;
+}
+.kihon12_tri {
+	font-family: "�l�r �S�V�b�N", "Osaka";
+	font-size: 12px;
+	white-space: nowrap;
+}
+.kihon12wrap {
+	font-family: "�l�r �o�S�V�b�N", "Osaka";
+	font-size: 12px;
+}
+.kihon13 {
+	font-family: "�l�r �S�V�b�N", "Osaka";
+	font-size: 13px;
+}
+.slctbtn {
+	background-color: #000080;
+	border-bottom-width: 1px;
+	border-color: #0033ff #000077 #000077 #0033ff;
+	border-left-width: 1px;
+	border-right-width: 1px;
+	border-top-width: 1px;
+	color: #FFFFFF;
+	cursor: hand;
+}
+.slctbtn01 {
+	 color: #000000; 
+	 background-color: #FFFFFF; 
+	 border-color: #006699 #000077 #000077 #006699; 
+	 border-top-width: 2px;
+	 border-right-width: 2px;
+	 border-bottom-width: 2px;
+	 border-left-width: 2px;
+	 cursor: hand;
+}
+
+.slctbtn02 { 
+	color: #000000;
+	background-color: #FFFFFF; 
+	border-color: #FF0000 #660000 #660000 #FF0000; 
+	border-top-width: 2px;
+	border-right-width: 2px; 
+	border-bottom-width: 2px; 
+	border-left-width: 2px
+	cursor: hand;
+}
+
+a:active {
+	color: #003399;
+	text-decoration: underline;
+}
+a:link {
+	color: #003399;
+	text-decoration: underline;
+}
+a:visited {
+	color: #333333;
+	text-decoration: underline;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+.kihon-green a:active {
+	color: #003399;
+	text-decoration: underline;
+}
+.kihon-green a:link {
+	color: #003399;
+	text-decoration: underline;
+}
+.kihon-green a:visited {
+	color: #333333;
+	text-decoration: underline;
+}
+.kihon-green a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+.kihon12 a:active {
+	color: #0000FF;
+	text-decoration: underline;
+}
+.kihon12 a:link {
+	color: #0000FF;
+	text-decoration: underline;
+}
+.kihon12 a:visited {
+	color: #0000FF;
+	text-decoration: underline;
+}
+.kihon12 a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+.kihon12_T2 a:active {
+	color: #0000FF;
+	text-decoration: underline;
+}
+.kihon12_T2 a:link {
+	color: #0000FF;
+	text-decoration: underline;
+}
+.kihon12_T2 a:visited {
+	color: #800000;
+	text-decoration: underline;
+}
+.kihon12_T2 a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+.eml {
+	font-size: 10px;
+	text-decoration: none;
+}
+.input1 {
+	background-color: #ffffff;
+	border: 0 solid #A9A9A9;
+	color: #000000;
+}
+.input2 {
+	background-color: #cccccc;
+	border: 0px solid #A9A9A9;
+	color: #000000;
+}
+.input3 {
+	background-color: #ffffff;
+	border: 1px inset #A9A9A9;
+	color: #000000;
+}
+.input4 {
+	background-color: #6495Ed;
+	border: 0 solid #6495Ed;
+	color: #000000;
+	height: 13px;
+	font-family: "�l�r �o�S�V�b�N", "Osaka";
+	font-size: 12px;
+}
+.input4intg {
+	border: 0 none #6495Ed;
+	color: #000000;
+	height: 13px;
+	font-family: "�l�r �o�S�V�b�N", "Osaka";
+	font-size: 12px;
+}
+.check1 {
+	border: 0px solid #cccccc;
+	color: #000000;
+	height: 28px;
+	width: 28px;
+	margin: 0px;
+	padding: 0px;
+}
+.subsysmenuidfont {
+	font-family: "Osaka","�l�r �o�S�V�b�N";
+	font-size: 13px;
+}
+.subsysmenuidfont2 {
+	font-family: "Osaka�|����","�l�r �S�V�b�N";
+	font-size: 13px;
+}
+.OverG a:visited img {
+	filter: Alpha(opacity=50);
+	moz-opacity: 0.50;
+	opacity: 0.50;
+}
+a:visited.OverG img {
+	filter: Alpha(opacity=50);
+	moz-opacity: 0.50;
+	opacity: 0.50;
+}
+.OverG1 a:link img {
+        border: 4px white solid;
+}
+.OverG1 a:visited img {
+	border: 4px red solid;
+}
+.OverG1EB a:link img {
+        border: 4px #eefaff solid;
+}
+.OverG1EB a:visited img {
+	border: 4px red solid;
+}
+.OverG2 img {
+	filter: Alpha(Opacity=10);
+	moz-opacity: 0.10;
+	opacity: 0.10;
+}
+.OverG2A a:visited img {
+	filter: filter: Chroma(Color=#FFFFFF) Mask(Color=#FF0000);
+	moz-opacity: 0.30;
+	opacity: 0.30;
+}
+.OverG2B a:visited img {
+	filter: filter: Chroma(Color=#FFFFFF) Mask(Color=#0000FF);
+	moz-opacity: 0.30;
+	opacity: 0.30;
+}
+.OverG2C a:visited img {
+	filter: filter: Chroma(Color=#FFFFFF) Mask(Color=#F8B20A);
+	moz-opacity: 0.30;
+	opacity: 0.30;
+}
+.OverG2D a:visited img {
+	filter: filter: Chroma(Color=#FFFFFF) Mask(Color=#9D00B9);
+	moz-opacity: 0.30;
+	opacity: 0.30;
+}
+td {
+	font-size: 12px;
+}
+form {
+	margin: 0px;
+}
+.tableTtl {
+	color: #000000;
+	font-size: 12px;
+	line-height: 16px;
+	border-top: 1px solid #333333;
+	border-left: 1px solid #333333;
+}
+.tableTtlb {
+	color: #000000;
+	font-size: 12px;
+	line-height: 16px;
+	border-top: 1px solid #333333;
+	border-left: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+}
+.tableTtlr {
+	color: #000000;
+	font-size: 12px;
+	line-height: 16px;
+	border-top: 1px solid #333333;
+	border-left: 1px solid #333333;
+	border-right: 1px solid #333333;
+}
+.tableTtlrb {
+	color: #000000;
+	font-size: 12px;
+	line-height: 16px;
+	border-top: 1px solid #333333;
+	border-left: 1px solid #333333;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+}
+.aucnetDTL {
+    padding:2px 2px 1px;
+}
+#T1_INTG tr td {
+border-top: 1px solid Gray;
+border-bottom: 1px solid Gray;
+border-left: 1px solid Gray;
+border-right: 0px solid Gray;
+}
+#T1_INTG tr td table tr td {
+border: 0px solid Gray;
+}
+#T2_INTG tr td {
+	border-top: 1px solid Gray;
+	border-left: 1px solid Gray;
+	padding-top: 0px;padding-right: 0px; padding-bottom: 0px;padding-left: 0px;
+}
+#T2_INTG tr td table tr td {
+	border: 0px solid Gray;
+}
+td.col_mylist_T1{
+	width: 43px;
+	margin: 0px;
+	padding: 0px;
+}
+td.col_kaijo_T1{
+	width: 142px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_year_T1{
+	width: 38px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_car_T1{
+	width: 130px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_kata_T1{
+	width: 75px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_shaken_T1{
+	width: 73px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+.col_shaken_title{
+	width: 35px;
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+}
+td.col_color_T1{
+	width: 64px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_shift_T1{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_hyoka_T1{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_mousikomi_T1{
+	width: 54px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_kng_T1{
+	width: 80px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_ymd_T1{
+	width: 68px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_mylist_T2{
+	width: 42px;
+	margin: 0px;
+	padding: 0px;
+}
+td.col_kaijo_T2{
+	width: 182px; /*142px;*/
+	margin-top: 0px;margin-right: 0px; margin-bottom: 0px;margin-left: 0px;
+	padding-top: 0px;padding-right: 0px; padding-bottom: 0px;padding-left: 0px;
+}
+td.col_year_T2{
+	width: 51px; /* 38px; */
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align : center;
+}
+td.col_car_T2{
+	width: 166px; /* 130px; */
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_kata_T2{
+	width: 75px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_shaken_T2{
+	width: 73px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_color_T2{
+	width: 64px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_shift_T2{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_hyoka_T2{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_mousikomi_T2{
+	width: 54px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_kng_T2{
+	width: 80px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+td.col_ymd_T2{
+	width: 68px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+}
+tr#fix_last td{
+	border-bottom : 1px solid Gray;
+	}

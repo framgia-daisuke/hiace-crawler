@@ -1,0 +1,686 @@
+span .bgcolor_1{
+	background-color: #FFFFFF;
+}
+span .bgcolor_3{
+	background-color: #F0FFF0;
+}
+span .bgcolor_4{
+	background-color: #F0FFF0;
+}
+span .bgcolor_9{
+	background-color: #F0FFF0;
+}
+span .bgcolor_5{
+	background-color: #FFE4E1;
+}
+span .bgcolor_6{
+	background-color: #FFE4E1;
+}
+span .bgcolor_8{
+	background-color: #FFFACD;
+}
+span .bgcolor_1.col_mylist_list{
+	width: 43px;
+	margin: 0px;
+	padding: 0px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_1.col_kaijo_list{
+	width: 142px;
+	margin-top: 0px;margin-right: 0px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 0px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_1.col_shuppin_list{
+	width: 32px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: right ;
+	display: inline-block;
+}
+span .bgcolor_1.col_year_list{
+	width: 38px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	display: inline-block;
+}
+span .bgcolor_1.col_car_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_1.col_kata_list{
+	width: 70px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_1.col_shaken_list{
+	width: 68px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_1.col_color_list{
+	width: 64px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_1.col_shift_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_1.col_hyoka_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_1.col_mousikomi_list{
+	width: 54px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_1.col_kng_list{
+	width: 88px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_1.col_ymd_list{
+	width: 66px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_mylist_list{
+	width: 43px;
+	margin: 0px;
+	padding: 0px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_kaijo_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_shuppin_list{
+	width: 32px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: right ;
+	display: inline-block;
+}
+span .bgcolor_3.col_year_list{
+	width: 38px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	display: inline-block;
+}
+span .bgcolor_3.col_car_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_kata_list{
+	width: 70px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_shaken_list{
+	width: 68px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_color_list{
+	width: 64px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_shift_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_hyoka_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_mousikomi_list{
+	width: 54px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_kng_list{
+	width: 88px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_3.col_ymd_list{
+	width: 66px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_mylist_list{
+	width: 43px;
+	margin: 0px;
+	padding: 0px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_kaijo_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_shuppin_list{
+	width: 32px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: right ;
+	display: inline-block;
+}
+span .bgcolor_4.col_year_list{
+	width: 38px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	display: inline-block;
+}
+span .bgcolor_4.col_car_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_kata_list{
+	width: 70px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_shaken_list{
+	width: 68px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_color_list{
+	width: 64px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_shift_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_hyoka_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_mousikomi_list{
+	width: 54px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_kng_list{
+	width: 88px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_4.col_ymd_list{
+	width: 66px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_mylist_list{
+	width: 43px;
+	margin: 0px;
+	padding: 0px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_kaijo_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_shuppin_list{
+	width: 32px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: right ;
+	display: inline-block;
+}
+span .bgcolor_9.col_year_list{
+	width: 38px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	display: inline-block;
+}
+span .bgcolor_9.col_car_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_kata_list{
+	width: 70px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_shaken_list{
+	width: 68px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_color_list{
+	width: 64px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_shift_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_hyoka_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_mousikomi_list{
+	width: 54px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_kng_list{
+	width: 88px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_9.col_ymd_list{
+	width: 66px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_mylist_list{
+	width: 43px;
+	margin: 0px;
+	padding: 0px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_kaijo_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_shuppin_list{
+	width: 32px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: right ;
+	display: inline-block;
+}
+span .bgcolor_5.col_year_list{
+	width: 38px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	display: inline-block;
+}
+span .bgcolor_5.col_car_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_kata_list{
+	width: 70px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_shaken_list{
+	width: 68px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_color_list{
+	width: 64px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_shift_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_hyoka_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_mousikomi_list{
+	width: 54px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_kng_list{
+	width: 88px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_5.col_ymd_list{
+	width: 66px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_mylist_list{
+	width: 43px;
+	margin: 0px;
+	padding: 0px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_kaijo_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_shuppin_list{
+	width: 32px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: right ;
+	display: inline-block;
+}
+span .bgcolor_6.col_year_list{
+	width: 38px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	display: inline-block;
+}
+span .bgcolor_6.col_car_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_kata_list{
+	width: 70px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_shaken_list{
+	width: 68px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_color_list{
+	width: 64px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_shift_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_hyoka_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_mousikomi_list{
+	width: 54px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_kng_list{
+	width: 88px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_6.col_ymd_list{
+	width: 66px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_mylist_list{
+	width: 43px;
+	margin: 0px;
+	padding: 0px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_kaijo_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_shuppin_list{
+	width: 32px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: right ;
+	display: inline-block;
+}
+span .bgcolor_8.col_year_list{
+	width: 38px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	display: inline-block;
+}
+span .bgcolor_8.col_car_list{
+	width: 138px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_kata_list{
+	width: 70px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_shaken_list{
+	width: 68px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_color_list{
+	width: 64px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_shift_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_hyoka_list{
+	width: 40px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_mousikomi_list{
+	width: 54px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_kng_list{
+	width: 88px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}
+span .bgcolor_8.col_ymd_list{
+	width: 66px;
+	margin-top: 0px;margin-right: 1px; margin-bottom: 0px;margin-left: 1px;
+	padding-top: 0px;padding-right: 1px; padding-bottom: 0px;padding-left: 1px;
+	text-align: center ;
+	white-space: pre;
+	display: inline-block;
+}

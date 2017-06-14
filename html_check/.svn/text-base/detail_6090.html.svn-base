@@ -1,0 +1,640 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<title>車輌詳細 (TAA九州会場)</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="content-language" content="ja">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="robots" content="noindex,nofollow">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE7">
+<script type="text/javascript" src='pre.js?timestamp=1323225445000'></script>
+<script type="text/javascript" src='ext.js?timestamp=1322118044000'></script>
+<script type="text/javascript">
+<!--
+
+Ext.onReady(function(){
+
+	Ext.each(document.getElementsByTagName('img'),
+		function(data,i,src){
+			data.ondragstart=function(){return false;};
+	});
+
+	Ext.each(document.getElementsByTagName('a'),
+		function(data,i,src){
+			data.ondragstart=function(){return false;};
+	});
+});
+
+//-->
+</script>
+<link rel="stylesheet" href='main.css?timestamp=1322118044000' type="text/css">
+</head>
+<body  oncontextmenu="return false;" background="/pv/img/souba_back.gif" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+	<form name="nowloading" method="post" action="nowloading.jsp"></form>
+	<!-- ヘッダー -->
+	<form name="form_entno" method="get" action="predtslct01.jsp">
+		<div align="center">
+			<table width="990" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="68" valign="top" 
+						onClick="MM_nbGroup('down','group1','Image91','/pv/img/title1-2.gif',1)"
+						onMouseOver="MM_nbGroup('over','Image91','/pv/img/title1-2.gif','/pv/img/title1-2.gif','back','/pv/img/title2-2.gif','/pv/img/title2-2.gif',1)"
+						onMouseOut="MM_nbGroup('out')">
+						<a href="preintginftl01.jsp?mode=1&page=1&timestamp=1323493310866">
+							<img name="Image91" border="0" src="/pv/img/title1.gif" width="68" height="30"></a>
+					</td>
+					<td width="67" valign="top" 
+						onClick="MM_nbGroup('down','group1','Image91','/pv/img/title1-2.gif',1)"
+						onMouseOver="MM_nbGroup('over','Image91','/pv/img/title1-2.gif','/pv/img/title1-2.gif','back','/pv/img/title2-2.gif','/pv/img/title2-2.gif',1)"
+						onMouseOut="MM_nbGroup('out')">
+						<a href="preintginftl01.jsp?mode=1&page=1&timestamp=1323493310866">
+							<img src="/pv/img/title2.gif" border="0" width="67" height="30" name="back" alt="戻る"></a>
+					</td>
+<td width="449" valign="top"><img src="/pv/img/title3.gif" width="449" height="30"></td>
+					<td width="123" rowspan="2" valign="top"
+						onMouseOut="MM_swapImgRestore()"
+						onMouseOver="MM_swapImage('top','','/pv/img/top02.gif',1)">
+						<a href="javascript:SelectTargetSub('preframe01.jsp?timestamp=1323493310866','topFrame')">
+							<img name="top" border="0" src="/pv/img/top01.gif" width="123" height="53" alt="トップ"></a>
+					</td>
+					<td width="108" rowspan="2" valign="top" onMouseOut="MM_swapImgRestore()"
+						onMouseOver="MM_swapImage('end','','/pv/img/end02.gif',1)">
+						<a href="prelogout01.jsp?timestamp=1323493310866" target="topFrame">
+							<img name="end" border="0" src="/pv/img/end01.gif" width="108" height="53" alt="終了"></a>
+					</td>
+					<td width="175" rowspan="2" valign="top"><img src="/pv/img/title-souba01.gif" width=175 height=53></td>
+				</tr>
+				<tr>
+					<td colspan="3">
+						<table width="440" border="0" cellspacing="0" cellpadding="0" height="21">
+							<tr>
+								<td width="130" align="center"><input type="text" value="W70695600" size="12" class="input3" READONLY></td>
+								<td width="243"><input type="text" value="（株）ランクス" size="57" class="input3" READONLY></td>
+								<td width="67"><span class="font"><b>様</b></span></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+		</form>
+	<!-- ボディー -->
+	<img src="/pv/img/shim.gif" width="1" height="10" border="0">
+	<form name="form1" method="get" action="predtslct01.jsp">
+		<table width="985" cellspacing="0" align="center" border="0">
+			<tr>
+				<td width="295" valign="top" align="left"><img src="/pv/img/sharyo_shosai.gif" width="295" height="45"></td>
+				<td width="690" align="left" style="font-color: black;">
+					&nbsp;<br>&nbsp;</td>
+			</tr>
+			<!-- ページ制御ここから -->
+			<tr>
+				<td colspan="2">
+					<table align="right" cellspacing="0" cellpadding="0" width="345" border="0">
+						<tr>
+							<td width="60" align="center">
+								<a href="predtslct01.jsp?type=7&display=list&conferenceid=31&holdingid=5855&auctionid=3406"><img src="/pv/img/left1.gif" height="18" border="0" alt="前車輌"></a>
+							</td>
+							<td width="60" align="center">
+								<a href="predtslct01.jsp?type=7&display=list&conferenceid=70&holdingid=1457&auctionid=9593"><img src="/pv/img/right1.gif" height="18" border="0" alt="次車輌"></a>
+							</td>
+							<td width="115" align="right">5/906&nbsp;車輌</td>
+							<td width="95" align="right">総件数：906件</td>
+							</tr>
+					</table>
+				</td>
+			</tr>
+			<!-- ここまでページ制御 -->
+		</table>
+		<div align="center">
+			<table width="985" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td valign="top" width="300"><table width="280" border="1" cellspacing="1" cellpadding="1">
+			<tr>
+				<td bgcolor="#FFFFFF" bordercolor="#272672">
+					<b><span style="color: black; text-decoration: none">いすゞ</span> <br> <span style="color: black; text-decoration: none">ｴﾙﾌ</span> <span style="color: black; text-decoration: none">NKR58ED</span>-<span style="color: black; text-decoration: none">7135693</span> </b>
+				</td>
+			</tr>
+		</table>
+		</td>
+	<td width="541" valign="top">
+<table border="0" cellspacing="1" cellpadding="0" width="241" height="26">
+			<tr>
+				<td width="98">
+		<a href="javascript:OpenWins('preforward01.jsp?href=prerqadd03.jsp;3Ftype;3D7;26conferenceid;3D22;26holdingid;3D6274;26auctionid;3D6090;26SLCT_CARNAME;3D08;252C;25B4;25D9;25CC;26cartype;3DNKR58ED;26cargrade;3D;25C0;25DE;25DD;25CC;25DF&target=_self','winhndlprecntln04');"><img src="/pv/img/intg_btn_reqtouroku.gif" width="160" height="25" border="0"></a>
+			</td>
+			</tr>
+		</table>
+		</td>
+	<td width="160" valign="top">
+		<input type="hidden" id="stateMylistStr" name="stateMylistStr" value="0">
+<table width="160" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+	<td align="right" class="mylstA">マイリストA</td>
+				<td><img src="/pv/img/shim.gif" width="5" height="0" border="0"></td>
+				<td align="left">
+					<table width="17" border="0" cellspacing="0">
+						<tr><td background="/pv/img/intg_checkA.gif"><input type="checkbox" name="mybeantaa_1" value="1" onClick="MListIns2('mybeantaa_1','preintgmyinf03.jsp?param=22,6274,6090,2,1&nexturl=preforward01.jsp%3Fhref%3Dpredtslct01.jsp%253Ftype%253D7%2526display%253Dlist%2526conferenceid%253D22%2526holdingid%253D6274%2526auctionid%253D6090%26target%3D_self')"></td></tr>
+					</table>
+				</td>
+	</tr>
+			<tr>
+	<td align="right" class="mylstB">マイリストB</td>
+				<td><img src="/pv/img/shim.gif" width="5" height="0" border="0"></td>
+				<td align="left">
+					<table width="17" border="0" cellspacing="0">
+						<tr><td background="/pv/img/intg_checkB.gif"><input type="checkbox" name="mybeantaa_2" value="1" onClick="MListIns2('mybeantaa_2','preintgmyinf03.jsp?param=22,6274,6090,2,2&nexturl=preforward01.jsp%3Fhref%3Dpredtslct01.jsp%253Ftype%253D7%2526display%253Dlist%2526conferenceid%253D22%2526holdingid%253D6274%2526auctionid%253D6090%26target%3D_self')"></td></tr>
+					</table>
+				</td>
+	</tr>
+		</table>
+</td>
+<td width="127" valign="top" align="right">
+					<a href="javascript:OpenPDFWins('pdf/taa_price/taa_W70695600_22_6274_6090_timestamp=1323493310866.pdf')"><img src="/pv/img/pdf.gif" width="108" height="35" border="0"></a>
+				</td>
+</tr>
+</table>
+</div>
+<img src="/pv/img/shim.gif" width="0" height="5"><div align="center">
+			<table width="975" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td bgcolor="#333333">
+						<table width="100%" border="0" cellspacing="1" cellpadding="2">
+							<colgroup>
+								<col width="65">
+								<col width="249">
+								<col width="60">
+								<col width="60">
+								<col width="60">
+								<col width="60">
+								<col width="60">
+								<col width="60">
+								<col width="60">
+								<col width="60">
+								<col width="60">
+								<col width="60">
+							</colgroup>
+							<tr bgcolor="#CCCCFF" align="left">
+								<td class="tableT">出品番号</td>
+								<td class="tableT">グレード</td>
+								<td class="tableT">年式</td>
+								<td class="tableT">記号</td>
+								<td class="tableT">排気量</td>
+								<td class="tableT">車検</td>
+								<td class="tableT">走行</td>
+								<td class="tableT">シフト</td>
+								<td class="tableT">形状</td>
+								<td class="tableT">評価点</td>
+								<td class="tableT">外装</td>
+								<td class="tableT">内装</td>
+							</tr>
+							<tr bgcolor="#FFFFFF">
+								<td class="tableT" align="left" style="color: black; text-decoration: none">6090</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">ﾀﾞﾝﾌﾟ</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">63年09月</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">P</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">3600cc</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">&nbsp;</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">251千km</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">F5</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">T</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">R</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">E</td>
+								<td class="tableT" align="left" style="color: black; text-decoration: none">E</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<img src="/pv/img/shim.gif" width="0" height="1" border="0">
+		<div align="center">
+			<table border="0" cellpadding="0" cellspacing="0" width="975">
+				<colgroup>
+					<col width="705">
+					<col width="12">
+					<col width="262">
+				</colgroup>
+				<tr valign="top">
+					<td rowspan="2" bgcolor="#333333">
+						<table width="100%" border="0" cellspacing="1" cellpadding="2">
+							<colgroup>
+								<col width="65">
+								<col width="125">
+								<col width="46">
+								<col width="450">
+							</colgroup>
+							<tr>
+								<td bgcolor="#CCCCFF" class="tableT">冷房</td>
+								<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">  </td>
+								<td bgcolor="#CCCCFF" rowspan="7" class="tableT">特記</td>
+								<td bgcolor="#FFFFFF" rowspan="7" class="tableT">
+<table border="0" cellpadding="0" cellspacing="0">
+										<colgroup>
+											<col width="150">
+											<col width="150">
+											<col width="150">
+										</colgroup>
+<tr>
+											<td height="20" bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">Ｒ預託済車４９２０円</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">各部Ｃ</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">ジャッキ欠品</td>
+										</tr>
+<tr>
+											<td height="20" bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">ＮＯｘ・ＰＭ法規制車</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">室内汚れ</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">アオリＸ</td>
+										</tr>
+<tr>
+											<td height="20" bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">ＦクロスメンバーＵ</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">天張汚れ</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">荷台改造</td>
+										</tr>
+<tr>
+											<td height="20" bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">ＲサイドメンバーＵ</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">シート張替え要</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">キャビン背面Ｃ穴</td>
+										</tr>
+<tr>
+											<td height="20" bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">ジャストロー</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">ハンドルすれ</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">ＦピラーＣ穴</td>
+										</tr>
+<tr>
+											<td height="20" bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">３人乗、積載量２０００㎏</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">ダッシュ板のり付</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">灰皿欠</td>
+										</tr>
+<tr>
+											<td height="20" bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">下廻りＣ</td>
+											<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">工具欠品</td>
+											<td bgcolor="#FFFFFF" class="tableT"  > </td>
+										</tr>
+</table>
+								</td>
+							</tr>
+							<tr>
+								<td bgcolor="#CCCCFF" class="tableT">燃料</td>
+								<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">ディーゼル</td>
+							</tr>
+							<tr>
+								<td bgcolor="#CCCCFF" class="tableT">外装色</td>
+								<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">ｱｵ</td>
+							</tr>
+							<tr>
+								<td bgcolor="#CCCCFF" class="tableT">色No.</td>
+								<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none"> </td>
+							</tr>
+							<tr>
+								<td bgcolor="#CCCCFF" class="tableT">内装色</td>
+								<td bgcolor="#FFFFFF" class="tableT" style="color: black; text-decoration: none">グレー</td>
+							</tr>
+							<tr>
+								<td bgcolor="#CCCCFF" class="tableT">訂正</td>
+								<td bgcolor="#FFFFFF" class="tableT" style="color: red">&nbsp;</td>
+							</tr>
+							<tr>
+								<td bgcolor="#CCCCFF" class="tableT">特記追加</td>
+								<td bgcolor="#FFFFFF" class="tableT" style="color: red">追加あり</td>
+							</tr>
+							<tr>
+								<td valign="top" bgcolor="#CCCCFF" class="tableT">装備</td>
+								<td valign="top" bgcolor="#FFFFFF" class="tableT" colspan="5">
+<span style="color: black; text-decoration: none">PS</span> <span style="color: black; text-decoration: none"> </span> <span style="color: black; text-decoration: none"> </span> <span style="color: black; text-decoration: none"> </span> <span style="color: black; text-decoration: none"> </span> <span style="color: black; text-decoration: none"> </span> <span style="color: black; text-decoration: none"> </span> <span style="color: black; text-decoration: none"> </span> <span style="color: black; text-decoration: none"> </span> <span style="color: black; text-decoration: none"> </span> <span style="color: black; text-decoration: none"> </span> <span style="color: black; text-decoration: none"> </span></td>
+							</tr>
+							<tr>
+								<td align="left" valign="top" bgcolor="#CCCCFF" class="tableT">ｱｲｵｰｸｺﾒﾝﾄ</td>
+								<td colspan="5" align="left" valign="top" bgcolor="#FFFFFF" class="tableTred">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+					<td rowspan="2"></td>
+					<td>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td bgcolor="#333333">
+									<table width="100%" border="0" cellspacing="1" cellpadding="0">
+										<tr>
+											<td bgcolor="#CCCCFF" width="60">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#CCCCFF" align="left" class="tableT">スタート</td>
+													</tr>
+												</table>
+											</td>
+											<td bgcolor="#FFFFFF">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#FFFFFF" align="right" class="tableT" style="color: black; text-decoration: none">1.0万円</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td bgcolor="#CCCCFF" valign="top" width="60">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#CCCCFF" class="tableT" align="left">結果</td>
+													</tr>
+												</table>
+											</td>
+											<td bgcolor="#FFFFFF" class="tableT" align="right">
+												<table border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td align="right" style="color: black; text-decoration: none">成約</td>
+													</tr>
+													<tr>
+														<td align="right" bgcolor="#FFFFFF" class="tableT">28.6万円</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr valign="top">
+					<td valign="bottom">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td bgcolor="#333333">
+									<table width="100%" border="0" cellspacing="1" cellpadding="0">
+										<tr>
+											<td bgcolor="#CCCCFF" width="60">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#CCCCFF" align="left" class="tableT">会場</td>
+													</tr>
+												</table>
+											</td>
+											<td width="194" bgcolor="#FFFFFF" align="left" class="tableT" colspan="3">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td width="194" bgcolor="#FFFFFF" align="left" class="tableT"><span style="color: black; text-decoration: none">TAA九州A</span> [福岡県小郡市]</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td bgcolor="#CCCCFF" width="45">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#CCCCFF" align="left" class="tableT">出品地</td>
+													</tr>
+												</table>
+											</td>
+											<td bgcolor="#FFFFFF" width="45">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#FFFFFF" align="left" class="tableT" style="color: black; text-decoration: none"><span style="color: red;">&nbsp;</span></td>
+													</tr>
+												</table>
+											</td>
+											<td bgcolor="#CCCCFF" width="45">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#CCCCFF" align="left" class="tableT">搬入日</td>
+													</tr>
+												</table>
+											</td>
+											<td bgcolor="#FFFFFF" width="45">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#FFFFFF" align="left" class="tableT" style="color: black; text-decoration: none"><span style="color: red;">&nbsp;</span></td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td bgcolor="#CCCCFF" width="60">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#CCCCFF" align="left" class="tableT">開催回数</td>
+													</tr>
+												</table>
+											</td>
+											<td width="194" bgcolor="#FFFFFF" align="left" class="tableT" colspan="3">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#FFFFFF" align="left" class="tableT">6274</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td bgcolor="#CCCCFF" width="60">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#CCCCFF" align="left" class="tableT">開催日</td>
+													</tr>
+												</table>
+											</td>
+											<td width="194" bgcolor="#FFFFFF" align="left" class="tableT" colspan="3">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#FFFFFF" align="left" class="tableT">2011年12月06日 10時32分</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td bgcolor="#CCCCFF" width="60">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#CCCCFF" align="left" class="tableT">入札締切</td>
+													</tr>
+												</table>
+											</td>
+											<td width="194" bgcolor="#FFFFFF" align="left" class="tableT" colspan="3">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#FFFFFF" align="left" class="tableT"></td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td bgcolor="#CCCCFF" width="60">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#CCCCFF" align="left" class="tableT">状態</td>
+													</tr>
+												</table>
+											</td>
+											<td width="194" bgcolor="#FFFFFF" align="left" class="tableT" colspan="3">
+												<table width="100%" border="0" cellspacing="0" cellpadding="2">
+													<tr>
+														<td bgcolor="#FFFFFF" align="left" class="tableT">&nbsp;</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<img src="/pv/img/shim.gif" width="0" height="1" border="0">
+		<div align="center">
+			<table border="0" cellpadding="0" cellspacing="0" width="975" align="center">
+				<tr valign="top">
+					<td width="442" align="center" rowspan="2">
+						<!-- --車の開き画像　↓--- -->
+						<table border="0" cellspacing="0" cellpadding="1" width="100%">
+							<tr>
+								<td align="center">
+									<table border="0" cellpadding="0" cellspacing="0">
+										<tr>
+											<td bgcolor="white" height="227">
+												<!-- -●車の開き画像- -->
+                      							<img src="/auction/ipb/taa/22_6274_6090_7.gif" border="0">
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td><img src="/pv/img/shim.gif" width="0" height="6" border="0"></td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<td class="tableT">Ａ</td>
+											<td class="tableT">：</td>
+											<td class="tableT">スリ傷</td>
+											<td class="tableT">Ｕ</td>
+											<td class="tableT">：</td>
+											<td class="tableT">凹凸</td>
+											<td class="tableT">Ｂ</td>
+											<td class="tableT">：</td>
+											<td class="tableT">凹凸傷</td>
+											<td class="tableT">Ｗ</td>
+											<td class="tableT">：</td>
+											<td class="tableT">補修跡</td>
+											<td class="tableT">Ｓ</td>
+											<td class="tableT">：</td>
+											<td class="tableT">錆</td>
+											<td class="tableT">Ｃ</td>
+											<td class="tableT">：</td>
+											<td class="tableT">腐</td>
+										</tr>
+										<tr>
+											<td class="tableT">Ｐ</td>
+											<td class="tableT">：</td>
+											<td class="tableT">塗要</td>
+											<td class="tableT">ＸＸ</td>
+											<td class="tableT">：</td>
+											<td class="tableT">替済</td>
+											<td class="tableT">Ｘ</td>
+											<td class="tableT">：</td>
+											<td class="tableT">替要</td>
+											<td class="tableT">Ｇ</td>
+											<td class="tableT">：</td>
+											<td class="tableT">ガラス点傷</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<table cellspacing="0" cellpadding="0" width="100%">
+										<tr>
+											<td class="redT1" valign="top"><b>※</b></td>
+											<td class="redT1" valign="top"><b>上記検査は会員間取引の参考のものであり、車輌の品質を保証するものではありません。</b></td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td height="20"><img src="/pv/img/shim.gif" width="10" height="20" border="0"></td>
+							</tr>
+						</table>
+						<!-- --車の開き画像　↑--- -->
+					</td>
+					<td width="443" align="center">
+						<!-- --前面画像　↓--- -->
+						<table border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td bgcolor="#333333">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td bgcolor="white" align="center" width="320" height="240">
+<!-- -●前面画像- -->
+												<img src="/pv/IMG_SVR_PASS/TAA/006/www/6274/000/60/00060901.JPG" width="320" height="240" border="1">
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td><img src="/pv/img/shim.gif" width="0" height="6" border="0"></td>
+							</tr>
+							<tr>
+								<td align="right" height="20" valign="top">
+									<a href="javascript:OpenIMGWins('predtext01.jsp?imgname=/pv/IMG_SVR_PASS/TAA/006/www/6274/000/60/00060901.JPG',640,530,'2')"><img src="/pv/img/kakudai.gif" width="87" height="24" border="0"></a>
+									<br>
+									<br>
+								</td>
+							</tr>
+						</table>
+						<!-- --前面画像　↑--- -->
+					</td>
+				</tr>
+				<tr valign="top">
+					<td width="443" align="center">
+						<!-- --背面画像　↓--- -->
+						<table border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td bgcolor="#333333">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td bgcolor="white" align="center" width="320" height="240">
+<!-- -●背面画像- -->
+												<img src="/pv/IMG_SVR_PASS/TAA/006/www/6274/000/60/00060902.JPG" width="320" height="240" border="1">
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td><img src="/pv/img/shim.gif" width="0" height="6" border="0"></td>
+							</tr>
+							<tr>
+								<td align="right" height="20" valign="top">
+									<a href="javascript:OpenIMGWins('predtext01.jsp?imgname=/pv/IMG_SVR_PASS/TAA/006/www/6274/000/60/00060902.JPG',640,530,'3')"><img src="/pv/img/kakudai.gif" width="87" height="24" border="0"></a>
+								</td>
+							</tr>
+						</table>
+						<!-- --背面画像　↑--- -->
+					</td>
+				</tr>
+				<tr>
+					<td><img src="/pv/img/shim.gif" width="400" height="5" border="0"></td>
+					<td><img src="/pv/img/shim.gif" width="400" height="5" border="0"></td>
+				</tr>
+			</table>
+		</div>
+<div align="center">
+			<table width="1000" border="0" cellspacing="0" cellpadding="0" height="58">
+				<tr>
+					<td align="left">
+						<a href="preintginftl01.jsp?mode=1&page=1&timestamp=1323493310867#M3QbzdbQQ-KK-bK39-bQzQ"><img src="/pv/img/info_back.gif" width="81" height="25" border="0"></a>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div align="center"><img src="/pv/img/shim.gif" width="0" height="10"></div>
+</form>
+	</body>
+</html>

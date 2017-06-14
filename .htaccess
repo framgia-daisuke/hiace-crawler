@@ -1,0 +1,12 @@
+php_value short_open_tag		On
+php_value allow_url_include		On
+
+php_value error_reporting		E_ALL&~E_NOTICE
+php_value display_errors		On
+
+RewriteEngine On
+RewriteBase /iauc/
+
+
+RewriteCond $1 !^(index\.php|static|data|.+\.css$|.+\.gif$|.+\.jpg$|.+\.png$|.+\.js$|.+\.json$|.+\.pdf$|.+\.xls$|.+\.swf$|include/.*\.html|admin/cms|index_b.php|user_guide)
+RewriteRule ^(.*)$ /iauc/index.php/$1 [L]
